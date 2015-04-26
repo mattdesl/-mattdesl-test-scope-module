@@ -1,6 +1,6 @@
 {
   "name": "@mattdesl/test-scope-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test of scoped modules",
   "main": "index.js",
   "license": "MIT",
