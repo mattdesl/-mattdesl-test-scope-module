@@ -10,7 +10,7 @@ console.log(require('@mattdesl/test-scope-module')) => true
 
 ## Usage
 
-[![NPM](https://nodei.co/npm/test-scope-module.png)](https://www.npmjs.com/package/test-scope-module)
+[![NPM](https://nodei.co/npm/@mattdesl/test-scope-module.png)](https://www.npmjs.com/package/@mattdesl/test-scope-module)
 
 ## License
 
