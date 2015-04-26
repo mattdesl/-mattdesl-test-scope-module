@@ -8,10 +8,6 @@ Test of scoped module.
 console.log(require('@mattdesl/test-scope-module')) => true
 ```
 
-## Usage
-
-[![NPM](https://nodei.co/npm/@mattdesl/test-scope-module.png)](https://www.npmjs.com/package/@mattdesl/test-scope-module)
-
 ## License
 
 MIT, see [LICENSE.md](http://github.com/mattdesl/test-scope-module/blob/master/LICENSE.md) for details.
